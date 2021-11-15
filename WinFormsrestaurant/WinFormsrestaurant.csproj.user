@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Ihm\AjoutCategorie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ihm\FormAccueil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ihm\GestCategorie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ihm\GestionCarte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
